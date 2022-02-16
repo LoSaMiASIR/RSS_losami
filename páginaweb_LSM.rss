@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+	<channel>
+		<title>Música Anime</title>
+		<link>https://github.com/LoSaMiASIR/Prueba</link>
+		<description>Los últimos hits de las ost del anime, tanto sitios oficiales como no oficiales</description>
+		<category>Musica/Anime</category>
+		<copyright>Miguel Angel Lopez Sanchez-todos los derechos reservados</copyright>
+		<language>es-es</language>
+		<lastBuildDate>Sat, 07 Sep 2002 09:42:31 GMT</lastBuildDate>
+		<webMaster>a21losami@iesgrancapitan.org</webMaster>
+		<skipDays>
+			<day>Saturday</day>
+			<day>Sunday</day>
+		</skipDays>
+		<skipHours>
+			<hour>0</hour>
+			<hour>1</hour>
+			<hour>2</hour>
+			<hour>3</hour>
+			<hour>4</hour>
+			<hour>5</hour>
+		</skipHours>
+		<image>
+			<url>https://cdn.pixabay.com/photo/2020/01/31/07/53/man-4807395_960_720.jpg</url>
+			<title>Música Anime</title>
+			<link>https://github.com/LoSaMiASIR/Prueba</link>
+		</image>
+		<item>
+			<title>Kimetsu no Yaiba</title>
+			<link>https://acortar.link/ZpTvin</link>
+			<description>Lista de canciones sobre el anime Demon Slayer por el autor Samuel Kim</description>
+			<author>a21losami@iesgrancapitan.org</author>
+			<enclosure
+			url="https://i.pinimg.com/originals/e2/9b/df/e29bdf8b035da520174e1b8282063c3b.jpg" length="12345" type="image/jpg" >			
+			</enclosure>
+			<source url="https://acortar.link/ZpTvin" ></source>
+			<pubDate>Sat, 07 Sep 2002 09:42:31 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Attack on Titan</title>
+			<link>https://acortar.link/NAWAU1</link>
+			<description>Canción oficial del último episodio de Attack on Titan por Anime PONY CANYON</description>
+			<author>a21losami@iesgrancapitan.org</author>
+			<enclosure
+			url="https://i.pinimg.com/474x/a7/7c/3f/a77c3f809c802ce0a720155ae64b6423.jpg" length="12345" type="image/jpg" >			
+			</enclosure>
+			<source url="https://acortar.link/NAWAU1" ></source>
+			<pubDate>Sat, 07 Sep 2002 09:42:31 GMT</pubDate>
+		</item>
+		
+		<item>
+			<title>Ousama Ranking</title>
+			<link>https://acortar.link/T7SfgP</link>
+			<description>Opening oficial de la segunda temporada de Ousama Ranking</description>
+			<author>a21losami@iesgrancapitan.org</author>
+			<enclosure
+			url="https://www.geekmi.news/__export/1640366327853/sites/debate/img/2021/12/24/ousamapart21.jpg_976912859.jpg" length="12345" type="image/jpg" >			
+			</enclosure>
+			<source url="https://acortar.link/T7SfgP" ></source>
+			<pubDate>Sat, 07 Sep 2002 09:42:31 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Nanatsu no Taizai</title>
+			<link>https://acortar.link/HIw1rZ</link>
+			<description>OST no oficial del personaje Escanor de la serie Nanatsu no Taizai</description>
+			<author>a21losami@iesgrancapitan.org</author>
+			<enclosure
+			url="https://i.pinimg.com/736x/63/4d/48/634d48251479c0aab43798c804e43975.jpg" length="12345" type="image/jpg" >			
+			</enclosure>
+			<source url="https://acortar.link/HIw1rZ" ></source>
+			<pubDate>Sat, 07 Sep 2002 09:42:31 GMT</pubDate>
+		</item>
+		
+		<item>
+			<title>Hnter x Hunter</title>
+			<link>https://acortar.link/1qjpva</link>
+			<description>Lista de canciones sobre el anime Demon Slayer por el autor Samuel Kim</description>
+			<author>a21losami@iesgrancapitan.org</author>
+			<enclosure
+			url="https://dw9to29mmj727.cloudfront.net/promo/2016/6231-SeriesHeaders_HxH_2000x800.jpg" length="12345" type="image/jpg" >			
+			</enclosure>
+			<source url="https://acortar.link/1qjpva" ></source>
+			<pubDate>Sat, 07 Sep 2002 09:42:31 GMT</pubDate>
+		</item>
+	</channel>
+</rss>
